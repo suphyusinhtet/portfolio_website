@@ -137,7 +137,7 @@ export default function Home() {
           </div>
           <div className="ml-auto flex items-center gap-3">
             <a
-              href="https://su-phyu-sin-htet-02j0k0m.gamma.site/"
+              href="https://rxresu.me/suphyusinhtet/su-phyu-sin-htet-junior-machine-learning-engineer"
               target="_blank"
               rel="noreferrer"
               className="rounded-full border border-luxe-accent/60 bg-luxe-primary/70 px-4 py-2 text-xs font-semibold uppercase tracking-[0.2em] text-luxe-ink shadow-soft transition hover:-translate-y-0.5 hover:bg-luxe-primary"
