@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/heinthu/ProjectsV2/porfolio-suphyu/app/layout\":[\"static/media/7b89a4fd5e90ede0-s.p.woff2\",\"static/media/f3f7e95f2dbc4fe4-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
